@@ -1,19 +1,5 @@
-# wfapp
+弹射世界角色信息查询
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Version：0.01
+由于数据文件编辑工作量巨大鸽了，只有简单的角色信息查询
+DEMO：umegiri.moe
